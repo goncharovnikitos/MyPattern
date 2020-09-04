@@ -193,7 +193,7 @@ body {
 .products-container .products .placeholder { 
 	grid-column: auto/span 1;
 	grid-row: auto/span 1;
-	height: 35vw;
+	height: 24vw;
 }
 .products-container .products .card {
 	grid-column: auto/span 1;

@@ -99,7 +99,22 @@
 	padding-left:16%;
 }
 
+.flex-container-2{
+	display:flex;
+	padding-top:4em;
+	padding-bottom: 5em;
+}
 
+.name-modify{
+	font-family: Gilroy;
+	font-size: 36px;
+	line-height: 46px;
+/* or 128% */
+	letter-spacing: 0.05em;
+
+/* white */
+color: #FFFFFF;
+}
 
 .button{
 	width: 14.4em;
@@ -219,6 +234,14 @@ body {
 
 .clients-grid .grid__item {
 	background: #5A98D0;
+	font-family: Gilroy;
+	font-size: 1em;
+	line-height: 46px;
+/* identical to box height, or 230% */
+	letter-spacing: 0.02em;
+
+/* Gray 6 */
+	color: #F2F2F2;
 }
 
 footer.mainpage {
@@ -240,3 +263,100 @@ footer.contacts {
 
 
 }
+
+.block-item{
+	width:19em;
+	padding-bottom:6em;
+}
+
+.right-item-2{
+	padding-left: 12em;
+    padding-top: 5em;
+}
+
+.menu2{
+	padding-left:16%;
+}
+
+a { 
+	text-decoration: none; /* Убираем подчеркивание у ссылок */
+	font-family: Gilroy;
+	font-size: 16px;
+	line-height: 26px;
+/* identical to box height, or 162% */
+	letter-spacing: 0.05em;
+	line-height:2.2em;
+
+/* white */
+color: #FFFFFF;
+}
+
+.block{
+	display: flex;
+}
+
+.block2{
+	padding-left: 0.2em;
+	font-family: Gilroy;
+	font-size: 28px;
+	line-height: 46px;
+/* identical to box height, or 164% */
+	letter-spacing: 0.02em;
+
+	color: #FFFFFF;
+}
+
+p{
+	font-family: Gilroy;
+	font-size: 20px;
+	line-height: 30px;
+/* identical to box height, or 150% */
+	letter-spacing: 0.05em;
+
+/* white */
+	color: #FFFFFF;
+}
+
+.textN{
+    font-family: Gilroy;
+    font-size: 0.4em;
+    line-height: 2em;
+    letter-spacing: 0.05em;
+    /* color: #1F3F68; */
+	opacity: 0.6;
+	width:13em;
+}
+
+.card img{
+	text-align:center;
+	padding:0 3.5em 2em 3.5em;
+}
+
+.desription{
+	font-family: Gilroy;
+	font-size: 16px;
+	line-height: 26px;
+/* or 162% */
+	letter-spacing: 0.05em;
+
+/* Blue_01 */
+	color: #1F3F68;
+	opacity: 0.6;
+}
+
+.containerN h3{
+	font-family: Gilroy;
+	font-size: 20px;
+	line-height: 30px;
+/* or 150% */
+	letter-spacing: 0.05em;
+
+/* Blue_01 */
+	color: #1F3F68;
+}
+
+.delta{
+	width:9em;
+	padding-bottom: 1em;
+}
+
